@@ -1,6 +1,6 @@
 
 <h1 align='center'>
-  Hi there 👋 I'm   <a href="https://www.linkedin.com/in/ayush-kulshrestha/">
+  Hi there 👋 I'm   <a href="https://www.linkedin.com/in/anurag-kumar-061865154/">
   Anurag Kumar</a> 👨‍💻
 </h1>
 <p align='center'>
@@ -20,7 +20,7 @@
   
 </p>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ayushkul&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=anurag-tthakur&show_icons=true&count_private=true&theme=dark" width="350"></a>
   <a href="#"><img src="https://media.giphy.com/media/62PP2yEIAZF6g/giphy.gif" width="241"></a>
 </p>
 <h2 align='center'>
@@ -77,5 +77,5 @@
 
 
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/ayushkul/ayushkul"></a>
+  <a href="#"><img src="https://badges.pufler.dev/visits/anurag-tthakur/anurag-tthakur"></a>
 </p>
