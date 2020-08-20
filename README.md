@@ -52,10 +52,10 @@
 [<img align="left" alt="Ayush Kulshrestha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br/>
 ### Languages I worked on
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkul&theme=light&hide_langs_below=1'/>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-tthakur&theme=light&hide_langs_below=1'/>
 -
 ### My Github Stats
-<img src='https://github-readme-stats.vercel.app/api?username=ayushkul&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'/>
+<img src='https://github-readme-stats.vercel.app/api?username=anurag-tthakur&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'/>
 -
 ### Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
