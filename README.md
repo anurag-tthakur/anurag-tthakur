@@ -38,18 +38,18 @@
   
 </p>
 <!--
-- 🔭  I’m currently working on a Dating App
+- 🔭  I’m currently working on a Chating App
 - 🌱  I’m currently exploring Full stack Development. 
 - 👯  I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCbaR6YYn5VGXrR5_f-4tNsA/videos?view=0&sort=p&flow=grid&view_as=subscriber)
-- 📫  I'm creating posts over [Instagram](https://www.instagram.com/theindiandev)
-- 📫  Follow me on [Twitter](https://twitter.com/Ayush_kul)
+- 📫  I'm creating posts over [Instagram](https://instagram.com/_programmingfun)
+- 📫  Follow me on [Twitter](https://twitter.com/anurag_tthakur)
 ### Connect with me:
-[<img align="left" alt="ayush kulshrestha" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Anurag Kumar" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="The Indian Dev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Ayush Kulshrestha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Ayush Kulshrestha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="The Indian Dev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram-theindiandev]
-[<img align="left" alt="Ayush Kulshrestha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Anurag Kumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Anurag Kumar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="_programmingfun | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram-_programmingfun]
+[<img align="left" alt="Anurag Kumar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br/>
 ### Languages I worked on
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-tthakur&theme=light&hide_langs_below=1'/>
@@ -71,7 +71,7 @@
 [twitter]: https://twitter.com/anurag_tthakur
 [youtube]: https://www.youtube.com/channel/UCbaR6YYn5VGXrR5_f-4tNsA
 [instagram]: https://www.instagram.com/anurag_tthakur/
-[instagram-theindiandev]: https://instagram.com/theindiandev
+[instagram-_programmingfun]: https://instagram.com/_programmingfun
 [linkedin]: https://www.linkedin.com/in/anurag-kumar-061865154/
 -->
 
